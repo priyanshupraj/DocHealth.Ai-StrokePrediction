@@ -48,7 +48,7 @@ DocHealth AI is a groundbreaking healthcare solution designed to revolutionize m
 - **Additional Identity Verification Methods**: Integration with biometric authentication for increased security and compliance.
 - **Language Support**: Expansion of language support and accessibility features to cater to diverse user demographics.
 
-## Basic Architecture 🏗️
+## Architecture 🏗️
 
                                      +------------------+
                                      |    User Device   |
@@ -75,9 +75,9 @@ DocHealth AI is a groundbreaking healthcare solution designed to revolutionize m
                 v                                                             v
        +--------------+                                           +--------------+
        |    Database  |                                           |  Machine     |
-       |   (MongoDB)  |                                           |  Learning    |
+       |              |                                           |  Learning    |
        +--------------+                                           |  Components  |
-                                                                    +--------------+
+                                                                  +--------------+
 
 
 The architecture consists of frontend components built with EJS for user interaction, backend components utilizing Flask and Node.js for processing and handling requests, and a MongoDB database for storing user data. Machine learning components leverage OpenCV and Transformers for facial recognition and natural language processing tasks. Integration with various APIs enables seamless communication with external services.
