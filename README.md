@@ -42,6 +42,46 @@ DocHealth AI is a groundbreaking healthcare solution designed to revolutionize m
 - **DevOps**: Continuous integration and deployment practices implemented for seamless updates and improvements.
 - **Infrastructure Management**: Automated management of cloud resources for efficient operation and maintenance.
 
+## Future Scope 🌱
+
+- **Enhanced AI Algorithms**: Continuous improvement of AI algorithms for better accuracy and user experience.
+- **Additional Identity Verification Methods**: Integration with biometric authentication for increased security and compliance.
+- **Language Support**: Expansion of language support and accessibility features to cater to diverse user demographics.
+
+## Basic Architecture 🏗️
+
+                                     +------------------+
+                                     |    User Device   |
+                                     +--------+---------+
+                                              |
+                                              |
+                                              v
+                                     +------------------+
+                                     |    Frontend      |
+                                     |    (EJS)         |
+                                     +--------+---------+
+                                              |
+                                              |
+                                              v
+                                     +------------------+
+                                     |    Backend       |
+                                     |    (Flask,       |
+                                     |    Node.js)      |
+                                     +--------+---------+
+                                              |
+                                              |
+                +-----------------------------+-------------------------------+
+                |                                                             |
+                v                                                             v
+       +--------------+                                           +--------------+
+       |    Database  |                                           |  Machine     |
+       |   (MongoDB)  |                                           |  Learning    |
+       +--------------+                                           |  Components  |
+                                                                    +--------------+
+
+
+The architecture consists of frontend components built with EJS for user interaction, backend components utilizing Flask and Node.js for processing and handling requests, and a MongoDB database for storing user data. Machine learning components leverage OpenCV and Transformers for facial recognition and natural language processing tasks. Integration with various APIs enables seamless communication with external services.
+
 ## Conclusion
 
 DocHealth AI represents a visionary approach to reimagining the delivery of medical consultations. By harnessing the transformative power of AI and cloud technologies, DocHealth AI aims to make premium healthcare universally accessible, transcending geographical and temporal constraints.
