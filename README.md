@@ -1,8 +1,7 @@
 # DocHealth AI: Revolutionizing Healthcare with AI and Cloud Technologies
 
 
-[Video Link](https://github.com/lovetewari/DocHealth.Ai/blob/main/DocHealthAi%20Demo%20Video.mp4)
-<iframe width="560" height="315" src="https://github.com/lovetewari/DocHealth.Ai/blob/main/DocHealthAi%20Demo%20Video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![DocHealthAi Demo Video](https://img.youtube.com/vi/0f3ZG5xqz2E/0.jpg)](https://www.youtube.com/watch?v=0f3ZG5xqz2E)
 
 
 
