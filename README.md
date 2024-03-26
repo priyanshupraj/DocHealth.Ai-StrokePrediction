@@ -1,6 +1,6 @@
 # DocHealth AI: Revolutionizing Healthcare with AI and Cloud Technologies
 
-https://github.com/mkswagger/DocHealth.Ai/assets/90250628/0c056aac-4aeb-491c-a10d-1480a58fee0a
+https://github.com/lovetewari/DocHealth.Ai/assets/90250628/0c056aac-4aeb-491c-a10d-1480a58fee0a
 
 
 
