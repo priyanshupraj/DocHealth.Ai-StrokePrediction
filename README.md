@@ -1,6 +1,7 @@
 # DocHealth AI: Revolutionizing Healthcare with AI and Cloud Technologies
 
-[![DocHealth AI Demo Video](https://github.com/lovetewari/DocHealth.Ai/raw/main/DocHealthAi%20Demo%20Video.mp4)](https://github.com/lovetewari/DocHealth.Ai/raw/main/DocHealthAi%20Demo%20Video.mp4)
+[![DocHealth AI Demo Video](https://github.com/lovetewari/DocHealth.Ai/raw/main/DocHealthAi%20Demo%20Video.mp4)](https://github.com/lovetewari/DocHealth.Ai/blob/main/DocHealthAi%20Demo%20Video.mp4)
+
 
 
 DocHealth AI is a groundbreaking healthcare solution designed to revolutionize medical care accessibility using innovative AI and cloud technologies. With a focus on AI-driven healthcare, DocHealth AI aims to overcome geographical and temporal barriers to quality healthcare, particularly for individuals in remote areas or with demanding schedules.
